@@ -1,0 +1,44 @@
+@eHospitalServer.WebAPI_HostAddress = http://localhost:5177
+
+GET https://localhost:7203/api/Auth/Get
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImhzZXJoIiwic3ViIjoiaHNlcmgiLCJqdGkiOiIxNzU2YWY1MyIsImF1ZCI6WyJodHRwOi8vbG9jYWxob3N0OjU4NTcyIiwiaHR0cHM6Ly9sb2NhbGhvc3Q6NDQzOTAiLCJodHRwOi8vbG9jYWxob3N0OjUxNzciLCJodHRwczovL2xvY2FsaG9zdDo3MjAzIl0sIm5iZiI6MTcxMTM1NjcwNSwiZXhwIjoxNzE5MzA1NTA1LCJpYXQiOjE3MTEzNTY3MDUsImlzcyI6ImRvdG5ldC11c2VyLWp3dHMifQ.-DO_OzJq97kygFIqVaJWfxrRWv4qIdeQCW9NRcfTHCE
+###
+
+POST https://localhost:7203/api/Auth/Login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "emailOrUserName": "admin",
+    "password": "1"
+}
+###
+GET https://localhost:7203/api/Auth/GetTokenByRefreshToken?refreshToken=34bbad5a-6ef8-4e3b-9c90-6265e43f574b
+Accept: application/json
+
+###
+POST https://localhost:7203/api/Users/Create
+Content-Type: application/json
+
+{
+  "firstName": "Hüseyin Serhan",
+  "lastName": "Kunt",
+  "identityNumber": "12345678932",
+  "fullAddress": "Ankara",
+  "email": "hserhan006@gmail.com",
+  "userName": "hskunt",
+  "password": "Password12*",
+  "phoneNumber": "05422504404",
+  "dateOfBirth":"1996-09-11",
+  "bloodType": "Arh-",
+  "userType": 1,
+  "specialty": 7,
+  "workingDays": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ]
+}

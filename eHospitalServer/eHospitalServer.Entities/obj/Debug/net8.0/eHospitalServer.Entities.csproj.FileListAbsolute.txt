@@ -1,0 +1,12 @@
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\bin\Debug\net8.0\eHospitalServer.Entities.deps.json
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\bin\Debug\net8.0\eHospitalServer.Entities.dll
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\bin\Debug\net8.0\eHospitalServer.Entities.pdb
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.csproj.AssemblyReference.cache
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.AssemblyInfoInputs.cache
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.AssemblyInfo.cs
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.csproj.CoreCompileInputs.cache
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.dll
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\refint\eHospitalServer.Entities.dll
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.pdb
+C:\YMYP-Angular\Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\ref\eHospitalServer.Entities.dll
